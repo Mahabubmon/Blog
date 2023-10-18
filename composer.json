@@ -1,0 +1,15 @@
+{
+    "name": "mahabub/blog",
+    "autoload": {
+        "psr-4": {
+            "Mahabub\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahabubur Rahman",
+            "email": "mahabubmon@gmail.com"
+        }
+    ],
+    "require": {}
+}
